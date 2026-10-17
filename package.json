@@ -1,0 +1,7 @@
+{
+  "name": "resume-tailor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JD-tailored resume builder with PDF export.",
+  "engines": { "node": ">=18" }
+}
